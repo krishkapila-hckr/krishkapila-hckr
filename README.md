@@ -84,7 +84,7 @@
 |----------|--------------|------|
 | 🛰 **Python Port Scanner** | Scans hosts for open TCP ports and generates live results | Python, sockets |
 | 🧠 **Password Strength Checker** | Tests password entropy and exposure in public breaches | Python, regex |
-| 🧩 **Network Packet Analyzer** | Captures packets and flags suspicious payloads | Python, Scapy |
+| 🧩 **AWS serverless coffee shop** | A modern, fully serverless Coffee Shop application built using AWS Lambda, API Gateway, DynamoDB, and Cognito | React(vite), Javascript |
 | 🔍 **SOC Mini-Lab** | Simulated enterprise setup with Wazuh + Splunk for alerting | VMs, Sysmon, Splunk |
 
 ---
